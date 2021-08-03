@@ -1,0 +1,15 @@
+.navigation {
+    margin-top: 0px;
+    background: blue;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    z-index: 1000;
+}
+
+.navigation a {
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
